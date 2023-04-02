@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+}
+header{
+    text-align: center;
+    background-color: black;
+    border: black solid 1px;
+}
+.title{
+    background-color: #f61732;
+    color: white;
+    font-size: 100px;
+    margin: 15px 250px;
+    border: #f61732 solid 1px;
+}
+.basketball, .badminton, .volleyball{
+    width: 33.33%;
+    float: left;
+}
+.sport{
+    content: "";
+    display: table;
+    clear: both;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+.info{
+    background-color: azure;
+    border: 1px solid;
+    margin: 0px, auto;
+}
+.name{
+    margin-top: 40px;
+    text-align: center;
+}
+hr{
+    width: 50%;
+}
+#num1, #num2, #num3{
+    text-align: center;
+    font-size: 85px;
+}
+.volleyball{
+    background-color: #ffe338;
+}
+.basketball{
+    background-color: #F88158;
+}
+.badminton{
+    background-color: #78a454;
+}
+.stat{
+    text-align: center;
+}
